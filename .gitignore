@@ -3,3 +3,5 @@
 *.jpg
 *.tr
 perf.*
+font_properties
+unicharset
